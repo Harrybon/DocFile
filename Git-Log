@@ -1,0 +1,13 @@
+git add *
+git commit -m 'basic learning file'
+git push -u origin3 master
+
+git add *
+git commit -m 'Arrange'
+git push -u origin3 master
+
+------2018-11-07-21-08-----
+
+git add *
+git commit -m 'xxx'
+git push origin3 master

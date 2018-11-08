@@ -9,5 +9,6 @@ git push -u origin3 master
 ------2018-11-07-21-08-----
 
 git add *
-git commit -m 'xxx'
+git commit -m 'Arrange again'
 git push origin3 master
+------2018-11-08-08-55
